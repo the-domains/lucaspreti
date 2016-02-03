@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lucas Preti website ]]></title>
         <description><![CDATA[Lucas Preti website ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lucaspreti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 18:51:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 18:56:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lucaspreti/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef31fd00-6482-4bd6-a3d3-73ec6554722a.jpg">]]></description>
-            <link>undefined7155ac91-5a4d-4c52-8c85-a852e3546d30/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cf12e48-5c9b-48b3-bd83-71213de1eb3f.jpg">]]></description>
+            <link>https://thegrid.ai/lucaspreti/7155ac91-5a4d-4c52-8c85-a852e3546d30/index.html</link>
             <guid isPermaLink="false">7155ac91-5a4d-4c52-8c85-a852e3546d30</guid>
-            <pubDate>Wed, 03 Feb 2016 18:51:40 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 18:55:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
