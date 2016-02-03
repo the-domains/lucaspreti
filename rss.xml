@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lucas Preti website ]]></title>
+        <description><![CDATA[Lucas Preti website ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 18:51:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef31fd00-6482-4bd6-a3d3-73ec6554722a.jpg">]]></description>
+            <link>undefined7155ac91-5a4d-4c52-8c85-a852e3546d30/index.html</link>
+            <guid isPermaLink="false">7155ac91-5a4d-4c52-8c85-a852e3546d30</guid>
+            <pubDate>Wed, 03 Feb 2016 18:51:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
